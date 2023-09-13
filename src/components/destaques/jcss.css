@@ -1,0 +1,20 @@
+.titulos{
+  display:flex;
+  font-size: 2vw;
+  text-decoration: underline;
+  height: min-content;
+  justify-content: center;
+}
+
+.container2{
+  background-color: #bdbdbdcf;
+  padding: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: min-content;
+  min-height: 780px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+

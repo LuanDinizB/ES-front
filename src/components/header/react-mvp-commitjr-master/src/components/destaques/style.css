@@ -1,0 +1,28 @@
+.contain-destaques{
+    width: auto;
+    height: auto;
+    background-color: #F8F9FA;
+    padding: 50px;
+}
+
+.dropdown{
+    display: flex;
+    justify-content: center !important;
+    margin-top: 50px;
+}
+
+.card{
+    margin-top: 50px;
+}
+
+.contain-card{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: -6px -6px 1em rgb(151, 151, 151);
+
+}

@@ -1,0 +1,49 @@
+.main-slider {
+    background-color: #C4C4C4;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:400;
+    font-size: 15px;
+    color: #515151;
+}
+.data{
+    margin-left: 350px;
+}
+
+.movie-title{
+    font-size: 35px;
+    margin: -500px;
+    margin-left: 650px;
+    font-weight: bold;
+    width: 300px;
+}
+
+.how-long, .adult-content, .date, .overview, .genres, .original-title{
+    padding-left: 600px;
+}
+
+.overview {
+    padding-top: 515px;
+}
+
+.carousel{
+    margin: 0px;
+    height: 632px;
+    width: 1903px;
+}
+.carousel-item{
+   width: 1903px;
+   height: 632px;
+}
+.carousel-inner{
+   width: 1903px;
+   height: 632px;
+}
+
+.w-100{
+   width: 100px;
+}
+.video{
+   padding:100px;
+   margin-left: 100px;
+}
+

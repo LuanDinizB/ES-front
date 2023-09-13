@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Bio';
+    src: url('../../font/BIOWEAPON/BIOWEAPON.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#a10{
+    font-family: 'Bio' !important;
+}

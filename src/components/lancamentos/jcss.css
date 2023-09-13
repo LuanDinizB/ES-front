@@ -1,0 +1,16 @@
+
+.pos-cabeca{
+  background-color: #332e2ecf;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 632px;
+}  
+
+.titulos{
+  display:flex;
+  font-size: 2vw;
+  text-decoration: underline;
+  height: min-content;
+  justify-content: center;
+}

@@ -1,0 +1,11 @@
+
+header{
+    background: #707070;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+  }
+  .imagemLuan{
+    width: 70px;
+  }
